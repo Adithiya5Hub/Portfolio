@@ -1,8 +1,25 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello Everyone!! This is my portfolio website.
 
-Currently, two official plugins are available:
+I used the following tech-stack to build this *Portfolio*
+- <img src="https://cdn-icons-png.flaticon.com/128/10826/10826338.png" height="30px" /> React 
+- <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" height="30px" /> CSS
+- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="30px" /> JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Pre-requisites
+In order to initialize your project:-
+- `npm create vite@latest my-project -- --template react`
+ 
+ - `cd my-project`
+ - ` npm install`
+ - ` npm run dev`
+
+
+The following needs to be installed in your OS
+
+`npm install react-slick `
+
+
+
+
