@@ -4,7 +4,7 @@ export const SKILLS = [
         icon: "https://cdn-icons-png.flaticon.com/128/9095/9095092.png",
         skills: [
             {skill: "HTML5",percentage:"90%"},
-            {skill: "CSS3 (Tailwind CSS)",percentage:"90%"},
+            {skill: "CSS3, Tailwind CSS",percentage:"90%"},
             {skill: "JavaScript",percentage:"70%"},
             {skill: "ReactJS",percentage:"60%"}
         ]

@@ -32,6 +32,10 @@
     width: 150px;
     margin-left: 5rem;
 }
+.project-img:hover{
+    transform: translateY(-0.5rem);
+    transition: all 0.3s ease;
+}
 
 @media (max-width:760px){
     .project-card{
