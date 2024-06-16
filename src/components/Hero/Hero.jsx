@@ -9,7 +9,7 @@ const Hero = () => {
                 <div className="tech-icon">
                     <img src="https://cdn-icons-png.flaticon.com/128/10826/10826338.png" alt="" />
                 </div>
-                <img className="my-img"  src="src/assets/Adithiya.jpg"  alt="" />
+                <img className="my-img"  src="/Adithiya.jpg"  alt="" />
             </div>
 
             <div>
