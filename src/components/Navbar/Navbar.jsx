@@ -30,7 +30,7 @@ const Navbar = () => {
                     <Link to='contact-container' smooth={true} className="menu-items">Contact Me</Link>
                 </li>
 
-               <a href="../src/assets/Adithiya_Resume.pdf" target="_blank" className='resume'>
+               <a href="/Adithiya_Resume.pdf" target="_blank" className='resume'>
                 <button className='contact-btn' onClick={()=>{}}>
                     Hire Me
                 </button>
