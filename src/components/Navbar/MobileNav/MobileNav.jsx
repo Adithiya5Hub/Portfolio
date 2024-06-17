@@ -23,10 +23,11 @@ const MobileNav = ({isOpen, toggleMenu}) => {
                 <li>
                     <Link to='contact-container' smooth={true} className="menu-items">Contact Me</Link>
                 </li>
-                <a href="/Adithiya_Resume1.pdf" target="_blank" className='resume'></a>
+                <a href="/Adithiya_Resume1.pdf" target="_blank" className='resume'>
                 <button className='contact-btn' onClick={()=>{}}>
                     Hire Me
                 </button>
+                </a>
             </ul>
         
         </div>
