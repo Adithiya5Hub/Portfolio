@@ -9,7 +9,8 @@ const SkillInfoCard = ({heading , skills}) => {
             {skills.map((item ,index) => (
                 <React.Fragment key={`skill_${index}`}>
                     <div className="skill-info">
-                        <p>{item.skill}</p> 
+                        <p>{item.skill}</p>
+                        <br />
                           
                     </div>
                       <div className="skill-progress-bg">
