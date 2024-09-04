@@ -13,9 +13,7 @@ const SkillInfoCard = ({heading , skills}) => {
                         <br />
                           
                     </div>
-                      <div className="skill-progress-bg">
-                        
-                    </div>                      
+                                            
                 </React.Fragment>
             ))}
         </div>
