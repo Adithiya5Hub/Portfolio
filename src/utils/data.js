@@ -65,14 +65,14 @@ export const PROJECTS =[
         ]
     },
     {
-        title: "Quiz Game",
+        title: "Techbastic",
         image: "https://cdn-icons-png.flaticon.com/128/1329/1329016.png",
-        link: "https://github.com/Adithiya5Hub/miniproject",
+        link: "https://techbastic.co/",
 
         description: [
-            "The Quiz Game consists of various questions which can be used to put your General Knowledge into a test",
-            "For every correct answer, you get 1 mark and your total marks are displayed once you click on Submit Button",
-            "You can play the game again by clicking on the Reset button",
+            "Techbastic is an open-source community dedicated to empowering aspiring developers through collaborative learning and shared resources.",
+            "With a wealth of tutorials, coding challenges, and peer support, we provide the tools and guidance needed to master programming skills independently.",
+            
         ]
     },
 ]

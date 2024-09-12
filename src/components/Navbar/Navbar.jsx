@@ -32,7 +32,7 @@ const Navbar = () => {
 
                <a href="/Adithiya_Resume1.pdf" target="_blank" className='resume'>
                 <button className='contact-btn' onClick={()=>{}}>
-                    Hire Me
+                    Resume
                 </button>
                 
                </a> 

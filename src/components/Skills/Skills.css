@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
 .skills-container {
   margin: 4rem 0;
   position: relative;
@@ -9,7 +11,7 @@
   width: 28rem;
   height: 28rem;
   border-radius: 28.125rem;
-  background: #7c66e3;
+  background: #255edb;
   position: absolute;
   z-index: -1;
   filter: blur(200px);
@@ -19,13 +21,15 @@
   left: -5rem;
 }
 .skills-container::before {
-  background: #9e51b9;
+  background: #255edb;
   bottom: 0rem;
   right: 0rem;
 }
 .skills-container h5 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 2.0rem;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal; 
   margin-bottom: 3.5rem;
 }
 

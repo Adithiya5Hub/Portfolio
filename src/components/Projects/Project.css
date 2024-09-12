@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
 .project-container{
     margin: 4rem 0;
     position: 0;
@@ -5,9 +7,12 @@
 }
 
 .project-container h5{
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 2.0rem;
+    
     margin-bottom: 3rem;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
     
 }
 

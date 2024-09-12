@@ -27,7 +27,7 @@ const Hero = () => {
 
         </div>
         <div className='hero-content'>
-            <h2>Transforming Ideas Into Creative Websites</h2>
+            <h2>Transforming Ideas Into Creative <span class='gradient'>Websites</span></h2>
             <p>Passionate Frontend Web Developer | Helping to build high quality websites and exceptional user experience</p>
         </div>
 
